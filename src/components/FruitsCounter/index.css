@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main-container{
+    height: 100vh;
+    border-width: 100px;
+    border-color: #ffd569;
+    background-size: cover;
+}
+
+.card{
+    height: 70vh;
+    background-color: white;
+}
+
+.images-container{
+
+}
+
+.img-1-container{
+
+}
+
+.img-2-container{
+
+}
+
+.img{
+    height: 25vh;
+    width: 15vw;
+}
+
+
+
